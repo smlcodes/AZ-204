@@ -45,6 +45,4 @@
 
 [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
 
-[](https://rally1.rallydev.com/#)
 
-### IDAM
