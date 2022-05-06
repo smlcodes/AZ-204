@@ -1,0 +1,190 @@
+az900storageacnt
+
+-------------------------------------------------------
+					Azure Functions
+-------------------------------------------------------
+1. Create Storage Account.
+		az900storageacnt
+		
+		
+2. Access keys :: Connection String
+		DefaultEndpointsProtocol=https;
+		AccountName=az900storageacnt;
+		AccountKey=GVUuatrNqv8QUU37cw9AfMf94JeU5i+AStJHzsMg==;
+		EndpointSuffix=core.windows.net
+
+3. Create Function App
+		az900functionapp1
+		
+		
+6Le-wqUfAAAAAH3iX9QTDy7g4y0mU8xhydCUiUd-
+6Le-wqUfAAAAADp19TNJPnRVKSlxbRM2Fh2fSYOl
+
+
+
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-9/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-13/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-15/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-16/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-19/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-20/
+
+
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-22/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-23/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-24/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-27/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-29/
+
+
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-35/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-36/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-37/ ***
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-38/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-39/ ****
+
+
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-41/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-44/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-45/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-48/
+Handle 			- SQLFilter
+Subscription	- CorelationFiler
+
+
+
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-52/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-53/ ***
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-54/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-55/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-58/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-59/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-60/
+
+
+
+
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-61/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-66/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-67/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-69/
+
+
+
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-73/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-74/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-400-question-75/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-76/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-77/ ***
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-78/
+
+
+
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-81/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-84/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-86/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-88/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-89/
+
+
+
+
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-95/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-97/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-100/
+
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-101/ ****
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-102/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-103/ ***
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-111/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-114/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-115/
+
+
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-121/ ***
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-124/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-128/
+
+
+
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-141/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-142/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-144/
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-147/ ***
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-148/
+(ALL)
+
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-151/ ****
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-152/ ****
+
+https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-153/ ****
+
+-------------------
+Azure Service Bus 
+	- FIFO
+
+
+Azure Event Grid
+	- publish-subscribe
+
