@@ -19,3 +19,32 @@
 [Enterprise Skills Initiative: Login](https://esi.microsoft.com/landing)
 
 [AZ-204 - Question 153 - Cloud Tech](https://cloudtech.how/microsoft/exam-az-204-developing-solutions-for-microsoft-azure/az-204-question-153/)
+
+
+# TOOLS
+
+### Tools
+
+[XML to Text Converter - Transform XML to Plain Text - Online - Browserling Web Developer Tools](https://www.browserling.com/tools/xml-to-text)
+
+[Changing Name on Income Tax Website when it is not matching with name as per PAN Card - Post by Hardik Lashkari](https://www.tapchief.com/insights/hardiklashkari/changing-name-on-income-tax-website-when-it-is-not-matching-with-name-as-per-pan-card-NmFjM2Fm)
+
+[Tuning Connection Pool Properties In WebSphere Application Server (Application Integration Middleware Support Blog)](https://www.ibm.com/developerworks/community/blogs/aimsupport/entry/tuning_connection_pool_properties_in_websphere_application_server?lang=en)
+
+[server is too busy processing multiple requests](http://www.errbay.com/?r=IBM-WAS-08.5&c=WSWS7263E)
+
+[S2T-Voice2Text](https://myvoice2text.com/)
+
+[Scribed Downloder](https://docdownloader.com/)
+
+[Scribd Downloader - Download Scribd Documents For Free](https://scribddown.com/)
+
+[ilovepdf - Pdf to Word](https://www.ilovepdf.com/)
+
+[iPage - Advanced Tools](https://www1.ipage.com/controlpanel/advanced-tools/)
+
+[Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
+
+[](https://rally1.rallydev.com/#)
+
+### IDAM
